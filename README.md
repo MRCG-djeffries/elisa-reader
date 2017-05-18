@@ -1,2 +1,3 @@
 # elisa-reader
-read elisa plates
+MS Access application that reads ELISA plates
+Assumes XML format
